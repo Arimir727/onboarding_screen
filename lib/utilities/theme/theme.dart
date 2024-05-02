@@ -12,14 +12,8 @@ class MAppTheme {
     brightness: Brightness.light,
     primaryColor: Colors.blue,
     textTheme: MTextTheme.lightTextTheme,
-    // chipTheme: TChipTheme.lightChipTheme,
     scaffoldBackgroundColor: Colors.white,
     appBarTheme: MAppBarTheme.lightAppBarTheme,
-    // checkboxTheme: TCheckBoxTheme.lightCheckBoxTheme,
-    // bottomSheetTheme: TBottomSheetTheme.lightBottomSheetTheme,
-    // elevatedButtonTheme: TElevatedBtnTheme.lightElevatedBtnTheme,
-    // outlinedButtonTheme: TOutlinedButtonThemeData.lightTheme,
-    // inputDecorationTheme: TTextFormFieldTheme.lightInputDecorationTheme,
   );
 
   // dark them
@@ -30,12 +24,6 @@ class MAppTheme {
     primaryColor: Colors.blue,
     scaffoldBackgroundColor: Colors.black,
     textTheme: MTextTheme.darkTextTheme,
-    // chipTheme: TChipTheme.darkChipTheme,
     appBarTheme: MAppBarTheme.darkAppBarTheme,
-    // checkboxTheme: TCheckBoxTheme.darkCheckBoxTheme,
-    // bottomSheetTheme: TBottomSheetTheme.darkBottomSheetTheme,
-    // elevatedButtonTheme: TElevatedBtnTheme.darkElevatedBtnTheme,
-    // outlinedButtonTheme: TOutlinedButtonThemeData.darkTheme,
-    // inputDecorationTheme: TTextFormFieldTheme.darkInputDecorationTheme,
   );
 }
