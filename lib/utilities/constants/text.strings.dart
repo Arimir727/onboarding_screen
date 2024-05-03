@@ -10,8 +10,7 @@ class MTexts {
       "Welcome to a World of Limitless Choices!";
   static const String onBoardingSubTitle2 =
       "Choose Your Style Path - Your Convenience, My Priority!";
-  static const String onBoardingSubTitle3 =
-      " At Moud@gmail.com or Yuurrei626@gmail.com";
+  static const String onBoardingSubTitle3 = " At MhoudCode@gmail.com";
 
   //  -- Home
 }

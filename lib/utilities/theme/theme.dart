@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:onboarding_screen/utilities/theme/custom.themes/appbar.theme.dart';
 import 'package:onboarding_screen/utilities/theme/custom.themes/text.theme.dart';
 
 class MAppTheme {
@@ -13,7 +12,6 @@ class MAppTheme {
     primaryColor: Colors.blue,
     textTheme: MTextTheme.lightTextTheme,
     scaffoldBackgroundColor: Colors.white,
-    appBarTheme: MAppBarTheme.lightAppBarTheme,
   );
 
   // dark them
@@ -24,6 +22,5 @@ class MAppTheme {
     primaryColor: Colors.blue,
     scaffoldBackgroundColor: Colors.black,
     textTheme: MTextTheme.darkTextTheme,
-    appBarTheme: MAppBarTheme.darkAppBarTheme,
   );
 }

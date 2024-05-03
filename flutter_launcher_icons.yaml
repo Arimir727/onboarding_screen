@@ -5,18 +5,20 @@
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/icon/plachodercon.png"
+  #  Change the picture for the icon launcher
+  image_path: "assets/icon/mcode.png"
 
   min_sdk_android: 21 # android min sdk min:16, default 21
   web:
     generate: true
-    image_path: "assets/icon/plachodericon.png"
-    background_color: "#hexcode"
+     #  Change the picture for the icon launcher
+    image_path: "assets/icon/mcode.png"
+    background_color: "#0xFF000000"  #Set a background color for the Icon Launcher
    
   windows:
     generate: true
-    image_path: "assets/icon/plachodericon.png"
+    image_path: "assets/icon/mcode.png"
     icon_size: 48 # min:48, max:256, default: 48
   macos:
     generate: true
-    image_path: "assets/icon/plachodericon.png"
+    image_path: "assets/icon/mcode.png"
