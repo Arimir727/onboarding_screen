@@ -1,3 +1,7 @@
-# onboarding_screen
+# Flutter onboarding_screen
 
-A new Flutter project.
+Complete onboarding the screen code
+Added designs 
+Structured folder structure
+Functional navigation
+Launcher Icon can be edited as needed
